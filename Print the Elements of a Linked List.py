@@ -1,6 +1,6 @@
 # Print the Elements of a Linked List
 
-# HackerRank Problem Solved using Python
+# HackerRank Problem Solved using Python.
 
 #!/bin/python3
 
