@@ -38,8 +38,7 @@ def print_singly_linked_list(node, sep):
         node = node.next
 
         if node:
-            print(sep, end='')
-            
+            print(sep, end='')            
 #
 # Complete the 'reversePrint' function below.
 #
@@ -54,7 +53,6 @@ def print_singly_linked_list(node, sep):
 #     SinglyLinkedListNode next
 #
 #
-
 def reversePrint(llist):
     # Write your code here
     if llist is None:
